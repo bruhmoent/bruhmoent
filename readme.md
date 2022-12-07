@@ -1,5 +1,5 @@
 
-
+<a href="https://www.codewars.com/users/bruhmoent/badges/large">
 <a href="https://github.com/bruhmoent/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruhmoent&hide=javascript,html,asp.net" />
 </a>
